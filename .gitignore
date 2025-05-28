@@ -1,0 +1,6 @@
+.env
+__pycache__
+venv
+*.bin
+faiss_index
+5_VectorDB\5_VectorDB\chromadb
