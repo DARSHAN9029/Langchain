@@ -1,6 +1,6 @@
-# 🧠 LangChain-Powered AI Pipeline
+# 🧠 LangChain For GEN-AI
 
-This repository showcases an end-to-end modular LangChain-based implementation and is helfull for learning Langchain from scrath for End to end Gen ai projects. It includes ingestion, transformation, and vector storage of data, leading to advanced query handling using LCEL (LangChain Expression Language).
+This repository showcases an end-to-end modular LangChain-based implementation and is helpfull for learning Langchain from scrath for End to end Gen ai projects. It includes ingestion, transformation, and vector storage of data, leading to advanced query handling using LCEL (LangChain Expression Language).
 ---
 ## 📁 Folder Structure
 
