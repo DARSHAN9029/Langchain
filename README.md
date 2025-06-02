@@ -5,11 +5,16 @@ This repository showcases an end-to-end modular LangChain-based implementation a
 ## 📁 Folder Structure
 
 1_Langchain/ Core LangChain implementations and components
+
 2_DataIngestion/ # Data ingestion pipelines (PDFs, websites, APIs, etc.)
+
 3_DataTransformer/ # Text cleaning, chunking, and formatting
+
 5_VectorDB/ # Vector database setup (ChromaDB, FAISS, etc.)
+
 6_Langchain( LCEL )/ # Implementation using LangChain Expression Language (LCEL)
-Embeddings/ # Saved embedding models or related files
+
+4_Embeddings/ # Saved embedding models or related files
 
 ---
 
